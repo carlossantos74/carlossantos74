@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> E ai, eu sou Carlos
 
-	💻 Frontend Developer <br>
+	💻 Frontend Developer
 	🏡 Impeatriz, MA, BR 🌎
 
 
