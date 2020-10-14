@@ -7,8 +7,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlossantos74)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true) 
 
 
 
