@@ -7,7 +7,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlossantos74&count_private=trueshow_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true)
 
 
 
