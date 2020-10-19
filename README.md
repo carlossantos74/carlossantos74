@@ -14,7 +14,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&count_private=true&layout=compact&theme=monokai"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&count_private=true&layout=compact&theme=monokai&langs_count=10"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -49,8 +49,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Carlos0kira?style=social)](https://twitter.com/Carlos0kira)
 [![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
   <a target="_blank" href="https://www.instagram.com/carlossantos74">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
-
-
 
 
 
