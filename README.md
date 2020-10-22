@@ -23,6 +23,11 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=carlossantos74&count_private=true&show_icons=true&custom_title=Status%20GitHub&theme=monokai"
     />
+	<img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=carlossantos74"
+    />
   </a>
 </p>
 
