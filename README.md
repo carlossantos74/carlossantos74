@@ -25,7 +25,8 @@
     />
 	<img
       align="center"
-      height="100%"
+      height="100%" 
+	width="100vw"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=carlossantos74&theme=monokai"
     />
   </a>
