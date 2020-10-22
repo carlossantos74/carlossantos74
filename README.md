@@ -24,9 +24,9 @@
       src="https://github-readme-stats.vercel.app/api?username=carlossantos74&count_private=true&show_icons=true&custom_title=Status%20GitHub&theme=monokai"
     />
 	<img
-      align="center"
-      height="100%" 
-	width="100vw"
+      align="left"
+      height="165px" 
+	width="100%"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=carlossantos74&theme=monokai"
     />
   </a>
