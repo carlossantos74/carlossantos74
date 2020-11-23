@@ -20,7 +20,7 @@
    <img
       align="center"
       height="165px" 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=carlossantos74&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&layout=compact&count_private=true&langs_count=10"
     />
 </a>
 
