@@ -2,7 +2,7 @@
 
 
 	 
-	 🚀 Front-end Developer @pjasolucoes
+	 🚀 Front-end Developer @inBolso
 	 🌎  Imperatriz, Brazil 
 	 
 
