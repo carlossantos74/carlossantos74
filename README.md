@@ -9,7 +9,7 @@
 
 
 <p align="">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
@@ -22,7 +22,13 @@
       height="165px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&layout=compact&count_private=true&langs_count=10&theme=radical"
     />
+</a> -->
+	
+<p align="center">
+<a href="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=monokai&hide_border=true"/>
 </a>
+</p>
 
 
 ### ⚡ Technologies
