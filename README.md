@@ -26,7 +26,7 @@
 	
 <p align="center">
 <a href="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=monokai&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=dark&hide_border=true"/>
 </a>
 </p>
 
