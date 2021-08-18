@@ -1,37 +1,16 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> E ai, eu sou Carlos
 
+* Tenho 19 anos e trabalho como desenvolvedor Front-end
+* Eu sou apaixonado por construir soluções para problemas e aprender com isso.
 
-	 
-	 🚀 Front-end Developer @inBolso
-	 🌎  Imperatriz, Brazil 
-	 
-
-
-
-<p align="">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=carlossantos74&count_private=true&show_icons=true&custom_title=Status%20GitHub&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img
-      align="center"
-      height="165px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&layout=compact&count_private=true&langs_count=10&theme=radical"
-    />
-</a> -->
+--------
 	
 <p align="center">
-<a href="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=dark&hide_border=true"/>
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=dark&hide_border=true"/>
 </p>
 
 
-### ⚡ Technologies
+### ⚡ Tecnologias
 
 <p align="center"> 
 
@@ -49,7 +28,7 @@
 </p>
 
 
-### 🚀 Find Me
+### 🚀 Me encontre
 [![Twitter Follow](https://img.shields.io/twitter/follow/Carlos0kira?style=social)](https://twitter.com/Carlos0kira)
 [![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
   <a target="_blank" href="https://www.instagram.com/carlos.santos74">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
