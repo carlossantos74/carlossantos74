@@ -1,8 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> E ai, eu sou Carlos
 
-* Tenho 19 anos e trabalho como desenvolvedor Front-end
-* Eu sou apaixonado por construir soluções para problemas e aprender com isso.
-
 --------
 	
 <p align="center">
