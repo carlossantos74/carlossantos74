@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> E ai, eu sou Carlos
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" size="15px"> E ai, eu sou Carlos -->
 
---------
+<!-- -------- -->
 	
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=dark&hide_border=true"/>
