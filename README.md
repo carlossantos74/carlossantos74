@@ -1,11 +1,18 @@
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" size="15px"> E ai, eu sou Carlos -->
+## Github Stats:
 
-<!-- -------- -->
-	
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&theme=dark&hide_border=true"/>
-</p>
-
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/carlossantos74"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/carlossantos74"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/carlossantos74"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Tecnologias
 
@@ -24,13 +31,12 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carlossantos74&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-### 🚀 Me encontre
+## 🚀 Me encontre
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Carlos0kira?style=social)](https://twitter.com/Carlos0kira)
 [![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
   <a target="_blank" href="https://www.instagram.com/carlos.santos74">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
  [![Gmail Badge](https://img.shields.io/badge/-carlos.santos74@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.santos74@outlook.com)](mailto:carlos.santos74@outlook.com)
 
-
-
-<!-- **carlossantos74/carlossantos74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
