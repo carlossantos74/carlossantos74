@@ -4,4 +4,4 @@ I'm a software developer and computer science student passionate about technolog
 
 In my career I have participated in the development of complex applications, including real-time communication services using WebRTC and websockets. I have also been involved in the development of internal libraries as a design system. I have extensive knowledge of JavaScript/TypeScript and front-end development.
 
-Translated with www.DeepL.com/Translator (free version)
+
