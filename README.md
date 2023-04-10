@@ -1,8 +1,12 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi, I'm Carlos.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Carlos!
 
-I'm a software developer and computer science student passionate about technology and open source initiatives. As a programmer, I am constantly searching for best practices and learning new things.
+I'm a computer science student and software developer with a passion for technology and open source initiatives. My focus is on creating high-quality, scalable software solutions that meet the needs of clients and end-users alike.
 
-In my career I have participated in the development of complex applications, including real-time communication services using WebRTC and websockets. I have also been involved in the development of internal libraries as a design system. I have extensive knowledge of JavaScript/TypeScript and front-end development.
+In my career, I've worked on some exciting projects, including real-time communication services using WebRTC and websockets, as well as contributing to the development of internal design system libraries. I have extensive knowledge of JavaScript/TypeScript and front-end development, and I'm always looking to expand my skill set.
+
+Outside of work, I enjoy watching comedy movies and animes as a way to unwind and relax. 
+
+When I'm not coding or watching movies, you can find me exploring new restaurants in my city. I'm always up for an adventure and trying something new.
 
 Would you like to find me?
 
