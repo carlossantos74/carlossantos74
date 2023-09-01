@@ -19,10 +19,13 @@ Would you like to find me?
 <table>
   <tr>
     <td>
-       <a href="https://github.com/carlossantos74"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+       <a href="https://github.com/carlossantos74"><img alt="Carlos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/carlossantos74"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/carlossantos74"><img alt="Carlos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&langs_count=8&count_private=true&layout=compact"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/carlossantos74"><img alt="Carlos's" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74"/></a>
     </td>
   </tr>
 </table>
