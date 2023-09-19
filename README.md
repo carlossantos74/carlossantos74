@@ -24,8 +24,8 @@ Would you like to find me?
     <td>
       <a href="https://github.com/carlossantos74"><img alt="Carlos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&langs_count=8&count_private=true&layout=compact"/></a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://github.com/carlossantos74"><img alt="Carlos's" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74"/></a>
-    </td>
+    </td> -->
   </tr>
 </table>
