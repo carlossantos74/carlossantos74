@@ -7,10 +7,6 @@ In my career, I've worked on some exciting projects, including real-time communi
 
 Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects, and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 
-Most used languages across my projects:
-
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
 Would you like to find me?
 
 [![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
