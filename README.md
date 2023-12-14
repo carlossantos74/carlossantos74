@@ -1,15 +1,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Carlos!
 
+
 I'm a computer science student and software developer with a passion for technology and open source initiatives. My focus is on creating high-quality, scalable software solutions that meet the needs of clients and end-users alike.
 
 In my career, I've worked on some exciting projects, including real-time communication services using WebRTC and websockets, as well as contributing to the development of internal design system libraries. I have extensive knowledge of JavaScript/TypeScript and front-end development, and I'm always looking to expand my skill set.
 
-Outside of work, I enjoy watching comedy movies and animes as a way to unwind and relax. 
-
-When I'm not coding or watching movies, you can find me exploring new restaurants in my city. I'm always up for an adventure and trying something new.
+Ever since I joined GitHub 4 years ago, I pushed 7343 commits, opened 16 issues, submitted 1439 pull requests, received 33 stars across 34 personal projects, and contributed to 41 public repositories.
 
 Would you like to find me?
-
 
 [![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
 [![Gmail Badge](https://img.shields.io/badge/-carlos.santos74@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.santos74@outlook.com)](mailto:carlos.santos74@outlook.com)
