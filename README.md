@@ -5,10 +5,11 @@ I'm a computer science student and software developer with a passion for technol
 
 In my career, I've worked on some exciting projects, including real-time communication services using WebRTC and websockets, as well as contributing to the development of internal design system libraries. I have extensive knowledge of JavaScript/TypeScript and front-end development, and I'm always looking to expand my skill set.
 
-Ever since I joined GitHub 5 years ago, I pushed 8937 commits, opened 14 issues, submitted 1868 pull requests, received 33 stars across 37 personal projects, and contributed to 44 public repositories.
+Ever since I joined GitHub 5 years ago, I pushed 8939 commits, opened 14 issues, submitted 1870 pull requests, received 33 stars across 37 personal projects, and contributed to 44 public repositories.
 
 Would you like to find me?
 
+[![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
 [![Gmail Badge](https://img.shields.io/badge/-carlos.santos74@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.santos74@outlook.com)](mailto:carlos.santos74@outlook.com)
 
 ---
