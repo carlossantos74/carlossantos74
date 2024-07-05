@@ -9,7 +9,6 @@ Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} c
 
 Would you like to find me?
 
-[![Linkedin: Carlos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-santos-216500171/)](https://www.linkedin.com/in/carlos-santos-216500171/)
 [![Gmail Badge](https://img.shields.io/badge/-carlos.santos74@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.santos74@outlook.com)](mailto:carlos.santos74@outlook.com)
 
 ---
