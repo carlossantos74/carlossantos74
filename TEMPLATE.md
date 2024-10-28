@@ -11,18 +11,4 @@ Would you like to find me?
 
 [![Gmail Badge](https://img.shields.io/badge/-carlos.santos74@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.santos74@outlook.com)](mailto:carlos.santos74@outlook.com)
 
----
 
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/carlossantos74"><img alt="Carlos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlossantos74&show_icons=true&count_private=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/carlossantos74"><img alt="Carlos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantos74&langs_count=8&count_private=true&layout=compact"/></a>
-    </td>
-<!--     <td>
-      <a href="https://github.com/carlossantos74"><img alt="Carlos's" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossantos74"/></a>
-    </td> -->
-  </tr>
-</table>
