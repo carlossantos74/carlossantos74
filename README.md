@@ -5,7 +5,7 @@ I'm a computer science student and software developer with a passion for technol
 
 In my career, I've worked on some exciting projects, including real-time communication services using WebRTC and websockets, as well as contributing to the development of internal design system libraries. I have extensive knowledge of JavaScript/TypeScript and front-end development, and I'm always looking to expand my skill set.
 
-Ever since I joined GitHub 7 years ago, I pushed 17307 commits, opened 349 issues, submitted 3558 pull requests, received 34 stars across 50 personal projects, and contributed to 35 public repositories.
+Ever since I joined GitHub 7 years ago, I pushed 17307 commits, opened 349 issues, submitted 3560 pull requests, received 34 stars across 50 personal projects, and contributed to 35 public repositories.
 
 Would you like to find me?
 
